@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+---
+If this text is found on any user page other than one spelled as (8, o, s, m), I suggest you report the user because it is likely a spam bot
 <!--
 **8osm/8osm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
